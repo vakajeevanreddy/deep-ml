@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:10:57.671Z",
+  "generated_at": "2026-10-02T12:41:29.927Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -508,6 +508,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-30T13:10:50.922Z",
       "last_pushed_at": "2026-09-30T13:10:50.922Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-10-02T12:41:28.232Z",
+      "last_pushed_at": "2026-10-02T12:41:28.232Z"
     }
   }
 }
