@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:45:03.065Z",
+  "generated_at": "2026-10-07T08:06:58.645Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -730,6 +730,19 @@
       "last_pushed_at": "2026-10-07T07:45:00.207Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-10-07T08:06:55.193Z",
+      "last_pushed_at": "2026-10-07T08:06:55.193Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
