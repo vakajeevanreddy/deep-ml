@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T10:44:43.323Z",
+  "generated_at": "2026-10-13T12:14:30.008Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -946,6 +946,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-10-13T10:44:33.705Z",
       "last_pushed_at": "2026-10-13T10:44:33.705Z"
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-10-13T12:14:20.082Z",
+      "last_pushed_at": "2026-10-13T12:14:20.082Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
