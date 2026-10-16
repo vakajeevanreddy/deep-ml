@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 45 problems · 0 labs · 34 math
+**80** solved · 46 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-24 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-24 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-30 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-16 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-29 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-21 | [solution](problems/0001-matrix-vector-dot-product) |
