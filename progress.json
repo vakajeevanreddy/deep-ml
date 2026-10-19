@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:36:29.664Z",
+  "generated_at": "2026-10-19T07:37:20.105Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1035,6 +1035,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-10-17T11:36:16.429Z",
       "last_pushed_at": "2026-10-17T11:36:16.429Z"
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2026-10-19T07:37:06.618Z",
+      "last_pushed_at": "2026-10-19T07:37:06.618Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }

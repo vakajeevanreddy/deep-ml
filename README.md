@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 50 problems · 0 labs · 35 math
+**86** solved · 51 problems · 0 labs · 35 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-13 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-03 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-10 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-29 | [solution](problems/0329-matrix-rank) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-10-17 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
