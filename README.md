@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 55 problems · 0 labs · 36 math
+**92** solved · 56 problems · 0 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-30 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-05-31 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-10-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-10 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
