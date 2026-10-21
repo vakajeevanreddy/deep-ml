@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:02:42.908Z",
+  "generated_at": "2026-10-21T07:20:59.776Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1059,6 +1059,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-19T14:02:28.610Z",
       "last_pushed_at": "2026-10-19T14:02:28.610Z"
+    },
+    "problem:330": {
+      "kind": "problem",
+      "id": "330",
+      "title": "Compute the Null Space (Kernel) of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/330",
+      "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
+      "first_solved_at": "2026-10-21T07:20:44.755Z",
+      "last_pushed_at": "2026-10-21T07:20:44.755Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
