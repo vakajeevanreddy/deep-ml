@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:00:37.158Z",
+  "generated_at": "2026-10-22T08:21:18.350Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1148,6 +1148,19 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-10-22T08:00:20.065Z",
       "last_pushed_at": "2026-10-22T08:00:20.065Z"
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-10-22T08:21:01.317Z",
+      "last_pushed_at": "2026-10-22T08:21:01.317Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
