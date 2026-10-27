@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:51:33.256Z",
+  "generated_at": "2026-10-27T05:40:25.931Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1311,6 +1311,19 @@
       "last_pushed_at": "2026-10-26T07:51:30.772Z",
       "language": "python",
       "lines": 22
+    },
+    "lab:14": {
+      "kind": "lab",
+      "id": "14",
+      "title": "Numpy: Design Your Own Dimensionality Reduction",
+      "difficulty": "medium",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/14",
+      "path": "labs/0014-numpy-design-your-own-dimensionality-reduction",
+      "first_solved_at": "2026-10-27T05:40:25.014Z",
+      "last_pushed_at": "2026-10-27T05:40:25.014Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
