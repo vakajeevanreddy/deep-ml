@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:04:47.396Z",
+  "generated_at": "2026-10-28T09:34:06.820Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1346,6 +1346,19 @@
       "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
       "first_solved_at": "2026-10-28T09:04:46.386Z",
       "last_pushed_at": "2026-10-28T09:04:46.386Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:990": {
+      "kind": "problem",
+      "id": "990",
+      "title": "Learning Rate Range Finder for Linear Regression",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/990",
+      "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
+      "first_solved_at": "2026-10-28T09:34:04.270Z",
+      "last_pushed_at": "2026-10-28T09:34:04.270Z",
       "language": "python",
       "lines": 21
     }
