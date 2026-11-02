@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 71 problems · 2 labs · 41 math
+**115** solved · 72 problems · 2 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-10-26 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-11-02 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-11-01 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-03 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
