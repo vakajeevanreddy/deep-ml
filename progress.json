@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:07:32.455Z",
+  "generated_at": "2026-11-10T11:24:15.457Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1461,6 +1461,19 @@
       "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
       "first_solved_at": "2026-11-10T10:07:24.621Z",
       "last_pushed_at": "2026-11-10T10:07:24.621Z"
+    },
+    "problem:1775": {
+      "kind": "problem",
+      "id": "1775",
+      "title": "Partitioned Inverse via Schur Complements",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1775",
+      "path": "problems/1775-partitioned-inverse-via-schur-complements",
+      "first_solved_at": "2026-11-10T11:24:07.307Z",
+      "last_pushed_at": "2026-11-10T11:24:07.307Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
