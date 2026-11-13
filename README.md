@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 76 problems · 2 labs · 43 math
+**122** solved · 76 problems · 2 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -113,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-05 | [solution](math/0020-bayes-theorem) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-05 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-06 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
+| [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-13 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-29 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-25 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-10-22 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
