@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 78 problems · 3 labs · 45 math
+**127** solved · 79 problems · 3 labs · 45 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-10 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-30 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-05-31 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Robust Line Fitting: Least Absolute Deviations by LP and Huber by IRLS](https://www.deep-ml.com/problems/1818) | medium | 2026-11-14 | [solution](problems/1818-robust-line-fitting-least-absolute-deviations-by-lp-and-huber-by-irls) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-10-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-22 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
