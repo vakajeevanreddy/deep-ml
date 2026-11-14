@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:40:29.021Z",
+  "generated_at": "2026-11-14T06:00:58.308Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1522,6 +1522,19 @@
       "path": "problems/1777-least-norm-solution-of-an-underdetermined-system",
       "first_solved_at": "2026-11-13T07:40:19.290Z",
       "last_pushed_at": "2026-11-13T07:40:19.290Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:15": {
+      "kind": "lab",
+      "id": "15",
+      "title": "Dimensionality Reduction with Sklearn",
+      "difficulty": "easy",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/15",
+      "path": "labs/0015-dimensionality-reduction-with-sklearn",
+      "first_solved_at": "2026-11-14T06:00:47.768Z",
+      "last_pushed_at": "2026-11-14T06:00:47.768Z",
       "language": "python",
       "lines": 29
     }
