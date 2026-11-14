@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:00:58.308Z",
+  "generated_at": "2026-11-14T07:10:43.980Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1537,6 +1537,17 @@
       "last_pushed_at": "2026-11-14T06:00:47.768Z",
       "language": "python",
       "lines": 29
+    },
+    "math:456": {
+      "kind": "math",
+      "id": "456",
+      "title": "Least Absolute Deviations as a Linear Program",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/456",
+      "path": "math/0456-least-absolute-deviations-as-a-linear-program",
+      "first_solved_at": "2026-11-14T07:10:33.470Z",
+      "last_pushed_at": "2026-11-14T07:10:33.470Z"
     }
   }
 }
