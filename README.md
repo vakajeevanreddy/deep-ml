@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 79 problems · 3 labs · 47 math
+**130** solved · 79 problems · 3 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-10-17 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-23 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Woodbury, Sherman-Morrison and the Matrix Determinant Lemma](https://www.deep-ml.com/math-problems/410) | medium | 2026-11-10 | [solution](math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma) |
+| [ARD: Learning One Prior Precision per Weight by Maximizing the Evidence](https://www.deep-ml.com/math-problems/457) | hard | 2026-11-15 | [solution](math/0457-ard-learning-one-prior-precision-per-weight-by-maximizing-the-evidence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-09 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-11 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-10 | [solution](math/0015-matrix-decompositions-lu-and-qr) |

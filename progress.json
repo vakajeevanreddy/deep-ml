@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:38:06.967Z",
+  "generated_at": "2026-11-15T11:32:39.982Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1583,6 +1583,17 @@
       "path": "math/0455-why-centering-decorrelates-the-intercept-and-the-slope",
       "first_solved_at": "2026-11-15T07:38:06.058Z",
       "last_pushed_at": "2026-11-15T07:38:06.058Z"
+    },
+    "math:457": {
+      "kind": "math",
+      "id": "457",
+      "title": "ARD: Learning One Prior Precision per Weight by Maximizing the Evidence",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/457",
+      "path": "math/0457-ard-learning-one-prior-precision-per-weight-by-maximizing-the-evidence",
+      "first_solved_at": "2026-11-15T11:32:39.338Z",
+      "last_pushed_at": "2026-11-15T11:32:39.338Z"
     }
   }
 }
