@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:12:22.460Z",
+  "generated_at": "2026-11-15T07:38:06.967Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1572,6 +1572,17 @@
       "path": "math/0454-bayesian-linear-regression-posterior-and-posterior-predictive",
       "first_solved_at": "2026-11-15T06:12:21.769Z",
       "last_pushed_at": "2026-11-15T06:12:21.769Z"
+    },
+    "math:455": {
+      "kind": "math",
+      "id": "455",
+      "title": "Why Centering Decorrelates the Intercept and the Slope",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/455",
+      "path": "math/0455-why-centering-decorrelates-the-intercept-and-the-slope",
+      "first_solved_at": "2026-11-15T07:38:06.058Z",
+      "last_pushed_at": "2026-11-15T07:38:06.058Z"
     }
   }
 }
