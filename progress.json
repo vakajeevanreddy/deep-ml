@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:01:48.785Z",
+  "generated_at": "2026-11-18T09:31:55.368Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1620,6 +1620,19 @@
       "last_pushed_at": "2026-11-18T09:01:46.064Z",
       "language": "python",
       "lines": 48
+    },
+    "lab:b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf": {
+      "kind": "lab",
+      "id": "b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf",
+      "title": "Honest Error Bars From 200 Houses",
+      "difficulty": "medium",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf",
+      "path": "labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf-honest-error-bars-from-200-houses",
+      "first_solved_at": "2026-11-18T09:31:52.246Z",
+      "last_pushed_at": "2026-11-18T09:31:52.246Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
