@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:19:35.009Z",
+  "generated_at": "2026-11-23T05:28:19.646Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1683,6 +1683,19 @@
       "path": "math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation",
       "first_solved_at": "2026-11-23T05:19:28.143Z",
       "last_pushed_at": "2026-11-23T05:19:28.143Z"
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-11-23T05:28:13.416Z",
+      "last_pushed_at": "2026-11-23T05:28:13.416Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
