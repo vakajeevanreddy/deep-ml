@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 87 problems · 4 labs · 49 math
+**141** solved · 88 problems · 4 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-04 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-03 | [solution](problems/0219-derivative-of-softmax) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-13 | [solution](problems/0205-entropy-cross-entropy) |
+| [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-23 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-21 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
