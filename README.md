@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**138** solved · 85 problems · 4 labs · 49 math
+**139** solved · 86 problems · 4 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-30 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-16 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-10-17 | [solution](problems/1022-l2-normalization-along-an-axis) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-11-23 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-10-28 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-29 | [solution](problems/0195-matrix-determinant-trace) |
