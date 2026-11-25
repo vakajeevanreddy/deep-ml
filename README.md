@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 89 problems · 4 labs · 49 math
+**143** solved · 90 problems · 4 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling](https://www.deep-ml.com/problems/1776) | medium | 2026-11-13 | [solution](problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-23 | [solution](problems/0334-cholesky-decomposition) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-11 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
+| [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-25 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-10-22 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-11 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-10-21 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
