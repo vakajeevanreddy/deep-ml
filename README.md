@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 90 problems · 4 labs · 49 math
+**144** solved · 91 problems · 4 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-06 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-04 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-03 | [solution](problems/0219-derivative-of-softmax) |
+| [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-26 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-13 | [solution](problems/0205-entropy-cross-entropy) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-23 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
