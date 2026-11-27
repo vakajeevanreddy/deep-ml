@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:25:38.004Z",
+  "generated_at": "2026-11-27T07:21:36.039Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -1787,6 +1787,19 @@
       "last_pushed_at": "2026-11-26T12:25:36.298Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:1359": {
+      "kind": "problem",
+      "id": "1359",
+      "title": "Detect Target Leakage in a Feature Matrix",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1359",
+      "path": "problems/1359-detect-target-leakage-in-a-feature-matrix",
+      "first_solved_at": "2026-11-27T07:21:34.558Z",
+      "last_pushed_at": "2026-11-27T07:21:34.558Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
